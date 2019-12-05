@@ -1,0 +1,64 @@
+<strong>Liste des besoins en heures nok :</strong>
+<hr/><strong>Liste des Magasins sans rendez-vous :</strong>
+Le Magasin ANCENIS n'a aucun rendez-vous !
+<hr/><strong>Liste des Magasins absents au salon d'achats :</strong>
+Le Magasin ANTHALDIS ne participe pas au salon d'achats !
+Le Magasin ANTHIGO ne participe pas au salon d'achats !
+Le Magasin ATLANTIS ne participe pas au salon d'achats !
+Le Magasin AZEDIS ne participe pas au salon d'achats !
+Le Magasin BLAINDIS ne participe pas au salon d'achats !
+Le Magasin BOCAGE ne participe pas au salon d'achats !
+Le Magasin BREVIDIS ne participe pas au salon d'achats !
+Le Magasin BRIANDIS ne participe pas au salon d'achats !
+Le Magasin BRIERE ne participe pas au salon d'achats !
+Le Magasin BRISSAC ne participe pas au salon d'achats !
+Le Magasin CDA49 ne participe pas au salon d'achats !
+Le Magasin CHANTONNAY ne participe pas au salon d'achats !
+Le Magasin CHEMILLE ne participe pas au salon d'achats !
+Le Magasin CLISSON ne participe pas au salon d'achats !
+Le Magasin DACAR ne participe pas au salon d'achats !
+Le Magasin DINANDIS ne participe pas au salon d'achats !
+Le Magasin DYNALEC ne participe pas au salon d'achats !
+Le Magasin ELAUDIS ne participe pas au salon d'achats !
+Le Magasin FOUGERES ne participe pas au salon d'achats !
+Le Magasin GOURONNIERES ne participe pas au salon d'achats !
+Le Magasin GUERANDIS ne participe pas au salon d'achats !
+Le Magasin JOSSELIN ne participe pas au salon d'achats !
+Le Magasin HERBIDIS ne participe pas au salon d'achats !
+Le Magasin KERMELEUC ne participe pas au salon d'achats !
+Le Magasin LAURY-CHALONGES 1 - Damien ne participe pas au salon d'achats !
+Le Magasin NANTES-NORD ne participe pas au salon d'achats !
+Le Magasin OUDAIRIDIS ne participe pas au salon d'achats !
+Le Magasin PARIDIS ne participe pas au salon d'achats !
+Le Magasin PAYS-DE-REDON ne participe pas au salon d'achats !
+Le Magasin PSV ne participe pas au salon d'achats !
+Le Magasin SABLE ne participe pas au salon d'achats !
+Le Magasin SAUMUR ne participe pas au salon d'achats !
+Le Magasin SEGRE ne participe pas au salon d'achats !
+Le Magasin SODIJOUR ne participe pas au salon d'achats !
+Le Magasin SODILONNE ne participe pas au salon d'achats !
+Le Magasin SODINOVE ne participe pas au salon d'achats !
+Le Magasin SODIPOR ne participe pas au salon d'achats !
+Le Magasin SODIRENNES 1 - Armelle ne participe pas au salon d'achats !
+Le Magasin SODIRETZ 1 - Nathalie ne participe pas au salon d'achats !
+Le Magasin SODIROCHE ne participe pas au salon d'achats !
+Le Magasin SODIVARDIERE ne participe pas au salon d'achats !
+Le Magasin SOLACDIS ne participe pas au salon d'achats !
+Le Magasin ST-GILLES ne participe pas au salon d'achats !
+Le Magasin ST-MALO ne participe pas au salon d'achats !
+Le Magasin SUD-LOIRE ne participe pas au salon d'achats !
+Le Magasin THOUARS ne participe pas au salon d'achats !
+Le Magasin VADIS ne participe pas au salon d'achats !
+Le Magasin LAURY-CHALONGES 2 - Valérie ne participe pas au salon d'achats !
+Le Magasin LAURY-CHALONGES 3 - Éric ne participe pas au salon d'achats !
+Le Magasin SODIRENNES 2 - Odile ne participe pas au salon d'achats !
+Le Magasin SODIRENNES 3 ne participe pas au salon d'achats !
+Le Magasin SODIRETZ 2 - Sylvie ne participe pas au salon d'achats !
+Le Magasin SODIRETZ 3 - Katerine ne participe pas au salon d'achats !
+Le Magasin OUDAIRIDIS+SODIROCHE ne participe pas au salon d'achats !
+Le Magasin BREVIDIS+SODIPOR ne participe pas au salon d'achats !
+Le Magasin GOURONNIERES+CDA49 ne participe pas au salon d'achats !
+Le Magasin NANTES-NORD 2 ne participe pas au salon d'achats !
+Le Magasin SEGRE 2 ne participe pas au salon d'achats !
+Le Magasin SOLACDIS 2 ne participe pas au salon d'achats !
+Le Magasin SODILONNE 2 ne participe pas au salon d'achats !

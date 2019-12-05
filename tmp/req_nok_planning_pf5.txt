@@ -1,0 +1,15 @@
+<strong>Liste des besoins en heures nok :</strong>
+(#1130) Il manque pour le Magasin ST-GILLES 1h00m de rendez-vous avec  le Fournisseur BEAUVALET - NATURANA.
+(#1318) Il manque pour le Magasin THOUARS 1h00m de rendez-vous avec  le Fournisseur VFB LINGERIE.
+<hr/><strong>Liste des Magasins sans rendez-vous :</strong>
+<hr/><strong>Liste des Magasins absents au salon d'achats :</strong>
+Le Magasin ATLANTIS ne participe pas au salon d'achats !
+Le Magasin BREVIDIS ne participe pas au salon d'achats !
+Le Magasin BRIANDIS ne participe pas au salon d'achats !
+Le Magasin OUDAIRIDIS ne participe pas au salon d'achats !
+Le Magasin PARIDIS ne participe pas au salon d'achats !
+Le Magasin SODIPOR ne participe pas au salon d'achats !
+Le Magasin SODIROCHE ne participe pas au salon d'achats !
+Le Magasin LAURY-CHALONGES 3 - Éric ne participe pas au salon d'achats !
+Le Magasin SODIRENNES 3 ne participe pas au salon d'achats !
+Le Magasin GOURONNIERES+CDA49 ne participe pas au salon d'achats !

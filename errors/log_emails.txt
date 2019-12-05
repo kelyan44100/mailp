@@ -1,0 +1,894 @@
+[08-Apr-2019 12:11:14 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[08-Apr-2019 12:11:15 Europe/Paris] EMAIL ENVOYÉ : Magasin ANCENIS
+[08-Apr-2019 12:11:16 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHALDIS
+[08-Apr-2019 12:11:17 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHIGO
+[08-Apr-2019 12:11:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ATLANTIS
+[08-Apr-2019 12:11:20 Europe/Paris] EMAIL ENVOYÉ : Magasin AZEDIS
+[08-Apr-2019 12:11:21 Europe/Paris] EMAIL ENVOYÉ : Magasin BLAINDIS
+[08-Apr-2019 12:11:21 Europe/Paris] EMAIL ENVOYÉ : Magasin BOCAGE
+[08-Apr-2019 12:11:22 Europe/Paris] EMAIL ENVOYÉ : Magasin BREVIDIS+SODIPOR
+[08-Apr-2019 12:11:23 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIANDIS
+[08-Apr-2019 12:11:23 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIERE
+[08-Apr-2019 12:11:24 Europe/Paris] EMAIL ENVOYÉ : Magasin BRISSAC
+[08-Apr-2019 12:11:25 Europe/Paris] EMAIL ENVOYÉ : Magasin CDA49
+[08-Apr-2019 12:11:25 Europe/Paris] EMAIL ENVOYÉ : Magasin CHANTONNAY
+[08-Apr-2019 12:11:26 Europe/Paris] EMAIL ENVOYÉ : Magasin CHEMILLE
+[08-Apr-2019 12:11:26 Europe/Paris] EMAIL ENVOYÉ : Magasin CLISSON
+[08-Apr-2019 12:11:27 Europe/Paris] EMAIL ENVOYÉ : Magasin DACAR
+[08-Apr-2019 12:11:28 Europe/Paris] EMAIL ENVOYÉ : Magasin DINANDIS
+[08-Apr-2019 12:11:28 Europe/Paris] EMAIL ENVOYÉ : Magasin DYNALEC
+[08-Apr-2019 12:11:29 Europe/Paris] EMAIL ENVOYÉ : Magasin ELAUDIS
+[08-Apr-2019 12:11:30 Europe/Paris] EMAIL ENVOYÉ : Magasin FOUGERES
+[08-Apr-2019 12:11:31 Europe/Paris] EMAIL ENVOYÉ : Magasin GOURONNIERES
+[08-Apr-2019 12:11:32 Europe/Paris] EMAIL ENVOYÉ : Magasin GUERANDIS
+[08-Apr-2019 12:11:32 Europe/Paris] EMAIL ENVOYÉ : Magasin HERBIDIS
+[08-Apr-2019 12:11:33 Europe/Paris] EMAIL ENVOYÉ : Magasin JOSSELIN
+[08-Apr-2019 12:11:34 Europe/Paris] EMAIL ENVOYÉ : Magasin KERMELEUC
+[08-Apr-2019 12:11:34 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 1 - Damien
+[08-Apr-2019 12:11:35 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 2 - Valérie
+[08-Apr-2019 12:11:35 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 3 - Éric
+[08-Apr-2019 12:11:36 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD
+[08-Apr-2019 12:11:36 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD 2
+[08-Apr-2019 12:11:37 Europe/Paris] EMAIL ENVOYÉ : Magasin OUDAIRIDIS+SODIROCHE
+[08-Apr-2019 12:11:37 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PARIDIS
+[08-Apr-2019 12:11:37 Europe/Paris] EMAIL ENVOYÉ : Magasin PAYS-DE-REDON
+[08-Apr-2019 12:11:38 Europe/Paris] EMAIL ENVOYÉ : Magasin PSV
+[08-Apr-2019 12:11:39 Europe/Paris] EMAIL ENVOYÉ : Magasin SABLE
+[08-Apr-2019 12:11:39 Europe/Paris] EMAIL ENVOYÉ : Magasin SAUMUR
+[08-Apr-2019 12:11:40 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE
+[08-Apr-2019 12:11:40 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE 2
+[08-Apr-2019 12:11:40 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIJOUR
+[08-Apr-2019 12:11:41 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE
+[08-Apr-2019 12:11:41 Europe/Paris] EMAIL NON ENVOYÉ #ERR-02 : Magasin SODILONNE 2
+[08-Apr-2019 12:11:41 Europe/Paris] EMAIL ENVOYÉ : Magasin SODINOVE
+[08-Apr-2019 12:11:42 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 1 - Armelle
+[08-Apr-2019 12:11:43 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 2 - Odile
+[08-Apr-2019 12:11:43 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 3
+[08-Apr-2019 12:11:44 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 1 - Nathalie
+[08-Apr-2019 12:11:44 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 2 - Sylvie
+[08-Apr-2019 12:11:45 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 3 - Katerine
+[08-Apr-2019 12:11:45 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIVARDIERE
+[08-Apr-2019 12:11:46 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS
+[08-Apr-2019 12:11:46 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS 2
+[08-Apr-2019 12:11:47 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-GILLES
+[08-Apr-2019 12:11:47 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-MALO
+[08-Apr-2019 12:11:48 Europe/Paris] EMAIL ENVOYÉ : Magasin SUD-LOIRE
+[08-Apr-2019 12:11:48 Europe/Paris] EMAIL ENVOYÉ : Magasin THOUARS
+[08-Apr-2019 12:11:49 Europe/Paris] EMAIL ENVOYÉ : Magasin VADIS
+[03-May-2019 15:29:48 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[03-May-2019 15:30:09 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[17-May-2019 15:40:44 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[17-May-2019 15:41:05 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[17-May-2019 15:41:26 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[17-May-2019 15:45:56 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[17-May-2019 15:45:57 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[17-May-2019 15:45:59 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[17-May-2019 16:34:49 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[17-May-2019 16:34:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[17-May-2019 16:34:51 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[17-May-2019 16:53:26 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[17-May-2019 16:53:27 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[17-May-2019 16:53:29 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[17-May-2019 16:57:04 Europe/Paris] EMAIL ENVOYÉ : Magasin ANCENIS
+[17-May-2019 16:57:05 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHALDIS
+[17-May-2019 16:57:06 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHIGO
+[17-May-2019 16:57:07 Europe/Paris] EMAIL ENVOYÉ : Magasin ATLANTIS
+[17-May-2019 16:57:07 Europe/Paris] EMAIL ENVOYÉ : Magasin AZEDIS
+[17-May-2019 16:57:08 Europe/Paris] EMAIL ENVOYÉ : Magasin BLAINDIS
+[17-May-2019 16:57:09 Europe/Paris] EMAIL ENVOYÉ : Magasin BOCAGE
+[17-May-2019 16:57:11 Europe/Paris] EMAIL ENVOYÉ : Magasin BREVIDIS+SODIPOR
+[17-May-2019 16:57:13 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIANDIS
+[17-May-2019 16:57:14 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIERE
+[17-May-2019 16:57:14 Europe/Paris] EMAIL ENVOYÉ : Magasin BRISSAC
+[17-May-2019 16:57:17 Europe/Paris] EMAIL ENVOYÉ : Magasin CDA49
+[17-May-2019 16:57:18 Europe/Paris] EMAIL ENVOYÉ : Magasin CHANTONNAY
+[17-May-2019 16:57:20 Europe/Paris] EMAIL ENVOYÉ : Magasin CHEMILLE
+[17-May-2019 16:57:21 Europe/Paris] EMAIL ENVOYÉ : Magasin CLISSON
+[17-May-2019 16:57:23 Europe/Paris] EMAIL ENVOYÉ : Magasin DACAR
+[17-May-2019 16:57:24 Europe/Paris] EMAIL ENVOYÉ : Magasin DINANDIS
+[17-May-2019 16:57:26 Europe/Paris] EMAIL ENVOYÉ : Magasin DYNALEC
+[17-May-2019 16:57:27 Europe/Paris] EMAIL ENVOYÉ : Magasin ELAUDIS
+[17-May-2019 16:57:28 Europe/Paris] EMAIL ENVOYÉ : Magasin FOUGERES
+[17-May-2019 16:57:30 Europe/Paris] EMAIL ENVOYÉ : Magasin GOURONNIERES
+[17-May-2019 16:57:32 Europe/Paris] EMAIL ENVOYÉ : Magasin GUERANDIS
+[17-May-2019 16:57:34 Europe/Paris] EMAIL ENVOYÉ : Magasin HERBIDIS
+[17-May-2019 16:57:36 Europe/Paris] EMAIL ENVOYÉ : Magasin JOSSELIN
+[17-May-2019 16:57:37 Europe/Paris] EMAIL ENVOYÉ : Magasin KERMELEUC
+[17-May-2019 16:57:38 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 1 - Damien
+[17-May-2019 16:57:39 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 2 - Valérie
+[17-May-2019 16:57:39 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 3 - Éric
+[17-May-2019 16:57:40 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD
+[17-May-2019 16:57:41 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD 2
+[17-May-2019 16:57:42 Europe/Paris] EMAIL ENVOYÉ : Magasin OUDAIRIDIS+SODIROCHE
+[17-May-2019 16:57:44 Europe/Paris] EMAIL ENVOYÉ : Magasin PARIDIS
+[17-May-2019 16:57:45 Europe/Paris] EMAIL ENVOYÉ : Magasin PAYS-DE-REDON
+[17-May-2019 16:57:46 Europe/Paris] EMAIL ENVOYÉ : Magasin PSV
+[17-May-2019 16:57:47 Europe/Paris] EMAIL ENVOYÉ : Magasin SABLE
+[17-May-2019 16:57:48 Europe/Paris] EMAIL ENVOYÉ : Magasin SAUMUR
+[17-May-2019 16:57:49 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE
+[17-May-2019 16:57:50 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE 2
+[17-May-2019 16:57:50 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIJOUR
+[17-May-2019 16:57:50 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE
+[17-May-2019 16:57:51 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE 2
+[17-May-2019 16:57:52 Europe/Paris] EMAIL ENVOYÉ : Magasin SODINOVE
+[17-May-2019 16:57:53 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 1 - Armelle
+[17-May-2019 16:57:54 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 2 - Odile
+[17-May-2019 16:57:55 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 3
+[17-May-2019 16:57:57 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 1 - Nathalie
+[17-May-2019 16:57:57 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 2 - Sylvie
+[17-May-2019 16:57:58 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 3 - Katerine
+[17-May-2019 16:57:59 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIVARDIERE
+[17-May-2019 16:58:00 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS
+[17-May-2019 16:58:02 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS 2
+[17-May-2019 16:58:04 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-GILLES
+[17-May-2019 16:58:06 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-MALO
+[17-May-2019 16:58:08 Europe/Paris] EMAIL ENVOYÉ : Magasin SUD-LOIRE
+[17-May-2019 16:58:10 Europe/Paris] EMAIL ENVOYÉ : Magasin THOUARS
+[17-May-2019 16:58:11 Europe/Paris] EMAIL ENVOYÉ : Magasin VADIS
+[17-May-2019 16:58:12 Europe/Paris] EMAIL ENVOYÉ : Magasin ANCENIS
+[17-May-2019 16:58:13 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHALDIS
+[17-May-2019 16:58:16 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHIGO
+[17-May-2019 16:58:18 Europe/Paris] EMAIL ENVOYÉ : Magasin ATLANTIS
+[17-May-2019 16:58:20 Europe/Paris] EMAIL ENVOYÉ : Magasin AZEDIS
+[17-May-2019 16:58:22 Europe/Paris] EMAIL ENVOYÉ : Magasin BLAINDIS
+[17-May-2019 16:58:23 Europe/Paris] EMAIL ENVOYÉ : Magasin BOCAGE
+[17-May-2019 16:58:24 Europe/Paris] EMAIL ENVOYÉ : Magasin BREVIDIS+SODIPOR
+[17-May-2019 16:58:26 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIANDIS
+[17-May-2019 16:58:29 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIERE
+[17-May-2019 16:58:30 Europe/Paris] EMAIL ENVOYÉ : Magasin BRISSAC
+[17-May-2019 16:58:32 Europe/Paris] EMAIL ENVOYÉ : Magasin CDA49
+[17-May-2019 16:58:33 Europe/Paris] EMAIL ENVOYÉ : Magasin CHANTONNAY
+[17-May-2019 16:58:34 Europe/Paris] EMAIL ENVOYÉ : Magasin CHEMILLE
+[17-May-2019 16:58:36 Europe/Paris] EMAIL ENVOYÉ : Magasin CLISSON
+[17-May-2019 16:58:38 Europe/Paris] EMAIL ENVOYÉ : Magasin DACAR
+[17-May-2019 16:58:39 Europe/Paris] EMAIL ENVOYÉ : Magasin DINANDIS
+[17-May-2019 16:58:41 Europe/Paris] EMAIL ENVOYÉ : Magasin DYNALEC
+[17-May-2019 16:58:42 Europe/Paris] EMAIL ENVOYÉ : Magasin ELAUDIS
+[17-May-2019 16:58:44 Europe/Paris] EMAIL ENVOYÉ : Magasin FOUGERES
+[17-May-2019 16:58:45 Europe/Paris] EMAIL ENVOYÉ : Magasin GOURONNIERES
+[17-May-2019 16:58:46 Europe/Paris] EMAIL ENVOYÉ : Magasin GUERANDIS
+[17-May-2019 16:58:47 Europe/Paris] EMAIL ENVOYÉ : Magasin HERBIDIS
+[17-May-2019 16:58:47 Europe/Paris] EMAIL ENVOYÉ : Magasin JOSSELIN
+[17-May-2019 16:58:48 Europe/Paris] EMAIL ENVOYÉ : Magasin KERMELEUC
+[17-May-2019 16:58:49 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 1 - Damien
+[17-May-2019 16:58:50 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 2 - Valérie
+[17-May-2019 16:58:51 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 3 - Éric
+[17-May-2019 16:58:52 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD
+[17-May-2019 16:58:52 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD 2
+[17-May-2019 16:58:53 Europe/Paris] EMAIL ENVOYÉ : Magasin OUDAIRIDIS+SODIROCHE
+[17-May-2019 16:58:53 Europe/Paris] EMAIL ENVOYÉ : Magasin PARIDIS
+[17-May-2019 16:58:54 Europe/Paris] EMAIL ENVOYÉ : Magasin PAYS-DE-REDON
+[17-May-2019 16:58:55 Europe/Paris] EMAIL ENVOYÉ : Magasin PSV
+[17-May-2019 16:58:57 Europe/Paris] EMAIL ENVOYÉ : Magasin SABLE
+[17-May-2019 16:58:58 Europe/Paris] EMAIL ENVOYÉ : Magasin SAUMUR
+[17-May-2019 16:58:59 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE
+[17-May-2019 16:59:02 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE 2
+[17-May-2019 16:59:03 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIJOUR
+[17-May-2019 16:59:05 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE
+[17-May-2019 16:59:05 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE 2
+[17-May-2019 16:59:06 Europe/Paris] EMAIL ENVOYÉ : Magasin SODINOVE
+[17-May-2019 16:59:07 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 1 - Armelle
+[17-May-2019 16:59:08 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 2 - Odile
+[17-May-2019 16:59:09 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 3
+[17-May-2019 16:59:10 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 1 - Nathalie
+[17-May-2019 16:59:11 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 2 - Sylvie
+[17-May-2019 16:59:13 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 3 - Katerine
+[17-May-2019 16:59:14 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIVARDIERE
+[17-May-2019 16:59:15 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS
+[17-May-2019 16:59:16 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS 2
+[17-May-2019 16:59:18 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-GILLES
+[17-May-2019 16:59:20 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-MALO
+[17-May-2019 16:59:21 Europe/Paris] EMAIL ENVOYÉ : Magasin SUD-LOIRE
+[17-May-2019 16:59:22 Europe/Paris] EMAIL ENVOYÉ : Magasin THOUARS
+[17-May-2019 16:59:24 Europe/Paris] EMAIL ENVOYÉ : Magasin VADIS
+[20-May-2019 08:39:40 Europe/Paris] EMAIL ENVOYÉ : Magasin ANCENIS
+[20-May-2019 08:39:41 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHALDIS
+[20-May-2019 08:39:42 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHIGO
+[20-May-2019 08:39:42 Europe/Paris] EMAIL ENVOYÉ : Magasin ATLANTIS
+[20-May-2019 08:39:43 Europe/Paris] EMAIL ENVOYÉ : Magasin AZEDIS
+[20-May-2019 08:39:44 Europe/Paris] EMAIL ENVOYÉ : Magasin BLAINDIS
+[20-May-2019 08:39:44 Europe/Paris] EMAIL ENVOYÉ : Magasin BOCAGE
+[20-May-2019 08:39:45 Europe/Paris] EMAIL ENVOYÉ : Magasin BREVIDIS+SODIPOR
+[20-May-2019 08:39:45 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIANDIS
+[20-May-2019 08:39:46 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIERE
+[20-May-2019 08:39:47 Europe/Paris] EMAIL ENVOYÉ : Magasin BRISSAC
+[20-May-2019 08:39:48 Europe/Paris] EMAIL ENVOYÉ : Magasin CDA49
+[20-May-2019 08:39:49 Europe/Paris] EMAIL ENVOYÉ : Magasin CHANTONNAY
+[20-May-2019 08:39:49 Europe/Paris] EMAIL ENVOYÉ : Magasin CHEMILLE
+[20-May-2019 08:39:50 Europe/Paris] EMAIL ENVOYÉ : Magasin CLISSON
+[20-May-2019 08:39:51 Europe/Paris] EMAIL ENVOYÉ : Magasin DACAR
+[20-May-2019 08:39:54 Europe/Paris] EMAIL ENVOYÉ : Magasin DINANDIS
+[20-May-2019 08:39:55 Europe/Paris] EMAIL ENVOYÉ : Magasin DYNALEC
+[20-May-2019 08:39:56 Europe/Paris] EMAIL ENVOYÉ : Magasin ELAUDIS
+[20-May-2019 08:39:57 Europe/Paris] EMAIL ENVOYÉ : Magasin FOUGERES
+[20-May-2019 08:39:58 Europe/Paris] EMAIL ENVOYÉ : Magasin GOURONNIERES
+[20-May-2019 08:39:58 Europe/Paris] EMAIL ENVOYÉ : Magasin GUERANDIS
+[20-May-2019 08:39:59 Europe/Paris] EMAIL ENVOYÉ : Magasin HERBIDIS
+[20-May-2019 08:40:00 Europe/Paris] EMAIL ENVOYÉ : Magasin JOSSELIN
+[20-May-2019 08:40:00 Europe/Paris] EMAIL ENVOYÉ : Magasin KERMELEUC
+[20-May-2019 08:40:01 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 1 - Damien
+[20-May-2019 08:40:02 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 2 - Valérie
+[20-May-2019 08:40:03 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 3 - Éric
+[20-May-2019 08:40:03 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD
+[20-May-2019 08:40:05 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD 2
+[20-May-2019 08:40:07 Europe/Paris] EMAIL ENVOYÉ : Magasin OUDAIRIDIS+SODIROCHE
+[20-May-2019 08:40:08 Europe/Paris] EMAIL ENVOYÉ : Magasin PARIDIS
+[20-May-2019 08:40:09 Europe/Paris] EMAIL ENVOYÉ : Magasin PAYS-DE-REDON
+[20-May-2019 08:40:10 Europe/Paris] EMAIL ENVOYÉ : Magasin PSV
+[20-May-2019 08:40:12 Europe/Paris] EMAIL ENVOYÉ : Magasin SABLE
+[20-May-2019 08:40:15 Europe/Paris] EMAIL ENVOYÉ : Magasin SAUMUR
+[20-May-2019 08:40:16 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE
+[20-May-2019 08:40:19 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE 2
+[20-May-2019 08:40:21 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIJOUR
+[20-May-2019 08:40:23 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE
+[20-May-2019 08:40:24 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE 2
+[20-May-2019 08:40:26 Europe/Paris] EMAIL ENVOYÉ : Magasin SODINOVE
+[20-May-2019 08:40:27 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 1 - Armelle
+[20-May-2019 08:40:28 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 2 - Odile
+[20-May-2019 08:40:29 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 3
+[20-May-2019 08:40:31 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 1 - Nathalie
+[20-May-2019 08:40:34 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 2 - Sylvie
+[20-May-2019 08:40:37 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 3 - Katerine
+[20-May-2019 08:40:42 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIVARDIERE
+[20-May-2019 08:40:43 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS
+[20-May-2019 08:40:44 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS 2
+[20-May-2019 08:40:47 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-GILLES
+[20-May-2019 08:40:48 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-MALO
+[20-May-2019 08:40:49 Europe/Paris] EMAIL ENVOYÉ : Magasin SUD-LOIRE
+[20-May-2019 08:40:50 Europe/Paris] EMAIL ENVOYÉ : Magasin THOUARS
+[20-May-2019 08:40:51 Europe/Paris] EMAIL ENVOYÉ : Magasin VADIS
+[20-May-2019 08:41:45 Europe/Paris] EMAIL ENVOYÉ : Magasin ANCENIS
+[20-May-2019 08:42:21 Europe/Paris] EMAIL ENVOYÉ : Magasin ANCENIS
+[20-May-2019 08:42:21 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHALDIS
+[20-May-2019 08:42:22 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHIGO
+[20-May-2019 08:42:23 Europe/Paris] EMAIL ENVOYÉ : Magasin ATLANTIS
+[20-May-2019 08:42:23 Europe/Paris] EMAIL ENVOYÉ : Magasin AZEDIS
+[20-May-2019 08:42:24 Europe/Paris] EMAIL ENVOYÉ : Magasin BLAINDIS
+[20-May-2019 08:42:25 Europe/Paris] EMAIL ENVOYÉ : Magasin BOCAGE
+[20-May-2019 08:42:25 Europe/Paris] EMAIL ENVOYÉ : Magasin BREVIDIS+SODIPOR
+[20-May-2019 08:42:26 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIANDIS
+[20-May-2019 08:42:27 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIERE
+[20-May-2019 08:42:27 Europe/Paris] EMAIL ENVOYÉ : Magasin BRISSAC
+[20-May-2019 08:42:28 Europe/Paris] EMAIL ENVOYÉ : Magasin CDA49
+[20-May-2019 08:42:29 Europe/Paris] EMAIL ENVOYÉ : Magasin CHANTONNAY
+[20-May-2019 08:42:29 Europe/Paris] EMAIL ENVOYÉ : Magasin CHEMILLE
+[20-May-2019 08:42:30 Europe/Paris] EMAIL ENVOYÉ : Magasin CLISSON
+[20-May-2019 08:42:31 Europe/Paris] EMAIL ENVOYÉ : Magasin DACAR
+[20-May-2019 08:42:31 Europe/Paris] EMAIL ENVOYÉ : Magasin DINANDIS
+[20-May-2019 08:42:32 Europe/Paris] EMAIL ENVOYÉ : Magasin DYNALEC
+[20-May-2019 08:42:33 Europe/Paris] EMAIL ENVOYÉ : Magasin ELAUDIS
+[20-May-2019 08:42:34 Europe/Paris] EMAIL ENVOYÉ : Magasin FOUGERES
+[20-May-2019 08:42:34 Europe/Paris] EMAIL ENVOYÉ : Magasin GOURONNIERES
+[20-May-2019 08:42:34 Europe/Paris] EMAIL ENVOYÉ : Magasin GUERANDIS
+[20-May-2019 08:42:35 Europe/Paris] EMAIL ENVOYÉ : Magasin HERBIDIS
+[20-May-2019 08:42:36 Europe/Paris] EMAIL ENVOYÉ : Magasin JOSSELIN
+[20-May-2019 08:42:36 Europe/Paris] EMAIL ENVOYÉ : Magasin KERMELEUC
+[20-May-2019 08:42:37 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 1 - Damien
+[20-May-2019 08:42:38 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 2 - Valérie
+[20-May-2019 08:42:39 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 3 - Éric
+[20-May-2019 08:42:39 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD
+[20-May-2019 08:42:40 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD 2
+[20-May-2019 08:42:40 Europe/Paris] EMAIL ENVOYÉ : Magasin OUDAIRIDIS+SODIROCHE
+[20-May-2019 08:42:41 Europe/Paris] EMAIL ENVOYÉ : Magasin PARIDIS
+[20-May-2019 08:42:41 Europe/Paris] EMAIL ENVOYÉ : Magasin PAYS-DE-REDON
+[20-May-2019 08:42:42 Europe/Paris] EMAIL ENVOYÉ : Magasin PSV
+[20-May-2019 08:42:42 Europe/Paris] EMAIL ENVOYÉ : Magasin SABLE
+[20-May-2019 08:42:43 Europe/Paris] EMAIL ENVOYÉ : Magasin SAUMUR
+[20-May-2019 08:42:43 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE
+[20-May-2019 08:42:44 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE 2
+[20-May-2019 08:42:44 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIJOUR
+[20-May-2019 08:42:45 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE
+[20-May-2019 08:42:45 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE 2
+[20-May-2019 08:42:46 Europe/Paris] EMAIL ENVOYÉ : Magasin SODINOVE
+[20-May-2019 08:42:46 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 1 - Armelle
+[20-May-2019 08:42:48 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 2 - Odile
+[20-May-2019 08:42:49 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 3
+[20-May-2019 08:42:49 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 1 - Nathalie
+[20-May-2019 08:42:50 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 2 - Sylvie
+[20-May-2019 08:42:51 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 3 - Katerine
+[20-May-2019 08:42:51 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIVARDIERE
+[20-May-2019 08:42:52 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS
+[20-May-2019 08:42:54 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS 2
+[20-May-2019 08:42:54 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-GILLES
+[20-May-2019 08:42:55 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-MALO
+[20-May-2019 08:42:55 Europe/Paris] EMAIL ENVOYÉ : Magasin SUD-LOIRE
+[20-May-2019 08:42:56 Europe/Paris] EMAIL ENVOYÉ : Magasin THOUARS
+[20-May-2019 08:42:56 Europe/Paris] EMAIL ENVOYÉ : Magasin VADIS
+[20-May-2019 08:43:44 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 08:58:33 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 08:58:33 Europe/Paris] EMAIL ENVOYÉ : Magasin ANCENIS
+[20-May-2019 08:58:33 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHALDIS
+[20-May-2019 09:33:18 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 09:33:18 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 09:33:18 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANCENIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHALDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHIGO
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ATLANTIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin AZEDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BLAINDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BOCAGE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BREVIDIS+SODIPOR
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIANDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIERE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRISSAC
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CDA49
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHANTONNAY
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHEMILLE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CLISSON
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DACAR
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DINANDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DYNALEC
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ELAUDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin FOUGERES
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GOURONNIERES
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GUERANDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin HERBIDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin JOSSELIN
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin KERMELEUC
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 1 - Damien
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 2 - Valérie
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 3 - Éric
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD 2
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin OUDAIRIDIS+SODIROCHE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PARIDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PAYS-DE-REDON
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PSV
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SABLE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SAUMUR
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE 2
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIJOUR
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE 2
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODINOVE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 1 - Armelle
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 2 - Odile
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 3
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 1 - Nathalie
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 2 - Sylvie
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 3 - Katerine
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIVARDIERE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS 2
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-GILLES
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-MALO
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SUD-LOIRE
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin THOUARS
+[20-May-2019 09:42:08 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin VADIS
+[20-May-2019 09:45:03 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 09:45:03 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 09:45:03 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANCENIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHALDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHIGO
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ATLANTIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin AZEDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BLAINDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BOCAGE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BREVIDIS+SODIPOR
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIANDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIERE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRISSAC
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CDA49
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHANTONNAY
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHEMILLE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CLISSON
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DACAR
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DINANDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DYNALEC
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ELAUDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin FOUGERES
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GOURONNIERES
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GUERANDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin HERBIDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin JOSSELIN
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin KERMELEUC
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 1 - Damien
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 2 - Valérie
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 3 - Éric
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD 2
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin OUDAIRIDIS+SODIROCHE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PARIDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PAYS-DE-REDON
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PSV
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SABLE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SAUMUR
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE 2
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIJOUR
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE 2
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODINOVE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 1 - Armelle
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 2 - Odile
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 3
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 1 - Nathalie
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 2 - Sylvie
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 3 - Katerine
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIVARDIERE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS 2
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-GILLES
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-MALO
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SUD-LOIRE
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin THOUARS
+[20-May-2019 09:46:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin VADIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANCENIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHALDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHIGO
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ATLANTIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin AZEDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BLAINDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BOCAGE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BREVIDIS+SODIPOR
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIANDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIERE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRISSAC
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CDA49
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHANTONNAY
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHEMILLE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CLISSON
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DACAR
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DINANDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DYNALEC
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ELAUDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin FOUGERES
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GOURONNIERES
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GUERANDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin HERBIDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin JOSSELIN
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin KERMELEUC
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 1 - Damien
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 2 - Valérie
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 3 - Éric
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD 2
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin OUDAIRIDIS+SODIROCHE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PARIDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PAYS-DE-REDON
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PSV
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SABLE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SAUMUR
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE 2
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIJOUR
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE 2
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODINOVE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 1 - Armelle
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 2 - Odile
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 3
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 1 - Nathalie
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 2 - Sylvie
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 3 - Katerine
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIVARDIERE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS 2
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-GILLES
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-MALO
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SUD-LOIRE
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin THOUARS
+[20-May-2019 09:54:17 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin VADIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANCENIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHALDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHIGO
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ATLANTIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin AZEDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BLAINDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BOCAGE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BREVIDIS+SODIPOR
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIANDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIERE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRISSAC
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CDA49
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHANTONNAY
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHEMILLE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CLISSON
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DACAR
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DINANDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DYNALEC
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ELAUDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin FOUGERES
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GOURONNIERES
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GUERANDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin HERBIDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin JOSSELIN
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin KERMELEUC
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 1 - Damien
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 2 - Valérie
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 3 - Éric
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD 2
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin OUDAIRIDIS+SODIROCHE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PARIDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PAYS-DE-REDON
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PSV
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SABLE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SAUMUR
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE 2
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIJOUR
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE 2
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODINOVE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 1 - Armelle
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 2 - Odile
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 3
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 1 - Nathalie
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 2 - Sylvie
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 3 - Katerine
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIVARDIERE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS 2
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-GILLES
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-MALO
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SUD-LOIRE
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin THOUARS
+[20-May-2019 09:54:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin VADIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANCENIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHALDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHIGO
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ATLANTIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin AZEDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BLAINDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BOCAGE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BREVIDIS+SODIPOR
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIANDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIERE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRISSAC
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CDA49
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHANTONNAY
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHEMILLE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CLISSON
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DACAR
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DINANDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DYNALEC
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ELAUDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin FOUGERES
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GOURONNIERES
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GUERANDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin HERBIDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin JOSSELIN
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin KERMELEUC
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 1 - Damien
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 2 - Valérie
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 3 - Éric
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD 2
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin OUDAIRIDIS+SODIROCHE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PARIDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PAYS-DE-REDON
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PSV
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SABLE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SAUMUR
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE 2
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIJOUR
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE 2
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODINOVE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 1 - Armelle
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 2 - Odile
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 3
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 1 - Nathalie
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 2 - Sylvie
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 3 - Katerine
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIVARDIERE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS 2
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-GILLES
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-MALO
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SUD-LOIRE
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin THOUARS
+[20-May-2019 09:58:07 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin VADIS
+[20-May-2019 10:01:03 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:01:03 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:01:03 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:01:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:01:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:01:29 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:04:45 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:04:45 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:04:45 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANCENIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHALDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ANTHIGO
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ATLANTIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin AZEDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BLAINDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BOCAGE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BREVIDIS+SODIPOR
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIANDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRIERE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin BRISSAC
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CDA49
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHANTONNAY
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHEMILLE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CLISSON
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DACAR
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DINANDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin DYNALEC
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ELAUDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin FOUGERES
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GOURONNIERES
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin GUERANDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin HERBIDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin JOSSELIN
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin KERMELEUC
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 1 - Damien
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 2 - Valérie
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin LAURY-CHALONGES 3 - Éric
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD 2
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin OUDAIRIDIS+SODIROCHE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PARIDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PAYS-DE-REDON
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PSV
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SABLE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SAUMUR
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE 2
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIJOUR
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE 2
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODINOVE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 1 - Armelle
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 2 - Odile
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRENNES 3
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 1 - Nathalie
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 2 - Sylvie
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIRETZ 3 - Katerine
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODIVARDIERE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS 2
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-GILLES
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ST-MALO
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SUD-LOIRE
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin THOUARS
+[20-May-2019 10:04:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin VADIS
+[20-May-2019 10:11:26 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 10:11:27 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[20-May-2019 10:11:28 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[20-May-2019 10:23:06 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:23:06 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:23:06 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:24:06 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:24:06 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:24:06 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:24:42 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:24:42 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:24:42 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:24:52 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:24:52 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:24:52 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:27:20 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:27:20 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:27:20 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:30:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 10:30:51 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[20-May-2019 10:30:52 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[20-May-2019 10:38:08 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 10:38:09 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[20-May-2019 10:38:09 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[20-May-2019 10:39:46 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:39:46 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:39:46 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:40:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:40:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:40:55 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:41:18 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:41:18 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:41:18 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:42:28 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 10:42:29 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[20-May-2019 10:42:30 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[20-May-2019 10:44:16 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 10:44:17 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[20-May-2019 10:44:17 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[20-May-2019 10:45:02 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:45:02 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:45:02 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:45:38 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ABACA
+[20-May-2019 10:45:38 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ACTUELLE
+[20-May-2019 10:45:38 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Fournisseur ATHENA EMINENC
+[20-May-2019 10:47:33 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 10:47:35 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[20-May-2019 10:47:35 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[20-May-2019 10:48:28 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 10:48:28 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[20-May-2019 10:48:29 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[20-May-2019 10:53:26 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 10:53:27 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[20-May-2019 10:53:28 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[20-May-2019 11:05:59 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL BARBIER Jacky jacky.barbier@grouperoyer.com
+[20-May-2019 11:05:59 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL MERCKENS Philippe philippe.merckens@gmail.com
+[20-May-2019 11:05:59 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL MERCKENS Philippe philippe.merckens@gmail.com
+[20-May-2019 11:05:59 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL Renault Bruno renaultbruno@gmail.com
+[20-May-2019 11:05:59 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL Petrau Michel michel.petrau79@gmail.com
+[20-May-2019 11:05:59 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL FRAVAL M mfraval@eminence.fr
+[20-May-2019 11:05:59 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL FONTAINE CHARLINE cfontaine@eminence.fr
+[20-May-2019 11:17:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL BARBIER Jacky
+[20-May-2019 11:17:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL MERCKENS Philippe
+[20-May-2019 11:17:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL MERCKENS Philippe
+[20-May-2019 11:17:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Renault Bruno
+[20-May-2019 11:17:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Petrau Michel
+[20-May-2019 11:17:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FRAVAL M
+[20-May-2019 11:17:27 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FONTAINE CHARLINE
+[20-May-2019 11:39:23 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL BARBIER Jacky
+[20-May-2019 11:39:23 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL MERCKENS Philippe
+[20-May-2019 11:39:23 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Renault Bruno
+[20-May-2019 11:39:23 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Petrau Michel
+[20-May-2019 11:39:23 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FRAVAL M
+[20-May-2019 11:39:23 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FONTAINE CHARLINE
+[20-May-2019 11:41:47 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL BARBIER Jacky jacky.barbier@grouperoyer.com
+[20-May-2019 11:41:47 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL MERCKENS Philippe philippe.merckens@gmail.com
+[20-May-2019 11:41:47 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL Renault Bruno renaultbruno@gmail.com
+[20-May-2019 11:41:47 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL Petrau Michel michel.petrau79@gmail.com
+[20-May-2019 11:41:47 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL FRAVAL M mfraval@eminence.fr
+[20-May-2019 11:41:47 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL FONTAINE CHARLINE cfontaine@eminence.fr
+[20-May-2019 11:43:36 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ABACA
+[20-May-2019 11:43:37 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ACTUELLE
+[20-May-2019 11:43:37 Europe/Paris] EMAIL ENVOYÉ : Fournisseur ATHENA EMINENC
+[24-May-2019 12:24:52 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL BARBIER Jacky
+[24-May-2019 12:24:52 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL MERCKENS Philippe
+[24-May-2019 12:24:52 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Renault Bruno
+[24-May-2019 12:24:52 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Petrau Michel
+[24-May-2019 12:24:52 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FRAVAL M
+[24-May-2019 12:24:52 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FONTAINE CHARLINE
+[24-May-2019 12:28:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL BARBIER Jacky
+[24-May-2019 12:28:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL MERCKENS Philippe
+[24-May-2019 12:28:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Renault Bruno
+[24-May-2019 12:28:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Petrau Michel
+[24-May-2019 12:28:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FRAVAL M
+[24-May-2019 12:28:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FONTAINE CHARLINE
+[05-Jun-2019 11:54:54 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL BARBIER Jacky
+[05-Jun-2019 11:54:54 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL MERCKENS Philippe
+[05-Jun-2019 11:54:54 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Renault Bruno
+[05-Jun-2019 11:54:54 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Petrau Michel
+[05-Jun-2019 11:54:54 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FRAVAL M
+[05-Jun-2019 11:54:54 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FONTAINE CHARLINE
+[05-Jun-2019 11:55:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL BARBIER Jacky
+[05-Jun-2019 11:55:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL MERCKENS Philippe
+[05-Jun-2019 11:55:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Renault Bruno
+[05-Jun-2019 11:55:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Petrau Michel
+[05-Jun-2019 11:55:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FRAVAL M
+[05-Jun-2019 11:55:00 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FONTAINE CHARLINE
+[05-Jun-2019 11:58:28 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL BARBIER Jacky
+[05-Jun-2019 11:58:28 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL MERCKENS Philippe
+[05-Jun-2019 11:58:28 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Renault Bruno
+[05-Jun-2019 11:58:28 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Petrau Michel
+[05-Jun-2019 11:58:28 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FRAVAL M
+[05-Jun-2019 11:58:28 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FONTAINE CHARLINE
+[05-Jun-2019 11:59:14 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL BARBIER Jacky
+[05-Jun-2019 11:59:14 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL MERCKENS Philippe
+[05-Jun-2019 11:59:14 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Renault Bruno
+[05-Jun-2019 11:59:14 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL Petrau Michel
+[05-Jun-2019 11:59:14 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FRAVAL M
+[05-Jun-2019 11:59:14 Europe/Paris] EMAIL NON ENVOYÉ #ERR-03 : COMMERCIAL FONTAINE CHARLINE
+[05-Jun-2019 12:00:00 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL BARBIER Jacky jacky.barbier@grouperoyer.com
+[05-Jun-2019 12:00:00 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL MERCKENS Philippe philippe.merckens@gmail.com
+[05-Jun-2019 12:00:01 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL Renault Bruno renaultbruno@gmail.com
+[05-Jun-2019 12:00:01 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL Petrau Michel michel.petrau79@gmail.com
+[05-Jun-2019 12:00:01 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL FRAVAL M mfraval@eminence.fr
+[05-Jun-2019 12:00:01 Europe/Paris] EMAIL ENVOYÉ : COMMERCIAL FONTAINE CHARLINE cfontaine@eminence.fr
+[12-Jun-2019 08:42:59 Europe/Paris] EMAIL ENVOYÉ : Fournisseur KIDILIZ ABSORBA - ALPHABET
+[12-Jun-2019 08:42:59 Europe/Paris] EMAIL ENVOYÉ : Fournisseur BEAUVALET - NATURANA
+[12-Jun-2019 08:43:00 Europe/Paris] EMAIL ENVOYÉ : Fournisseur CHANTELLE
+[12-Jun-2019 08:43:00 Europe/Paris] EMAIL ENVOYÉ : Fournisseur KOOKAI V2D EXPANSION
+[12-Jun-2019 08:43:01 Europe/Paris] EMAIL ENVOYÉ : Fournisseur PETIT BATEAU
+[12-Jun-2019 08:43:01 Europe/Paris] EMAIL ENVOYÉ : Fournisseur RAFCO
+[12-Jun-2019 08:43:02 Europe/Paris] EMAIL ENVOYÉ : Fournisseur STEFFY V2D CREATION
+[12-Jun-2019 08:43:02 Europe/Paris] EMAIL ENVOYÉ : Fournisseur SOLAYTEX
+[12-Jun-2019 08:43:03 Europe/Paris] EMAIL ENVOYÉ : Fournisseur TRIUMPH
+[12-Jun-2019 08:43:03 Europe/Paris] EMAIL ENVOYÉ : Fournisseur VFB LINGERIE
+[12-Jun-2019 08:43:04 Europe/Paris] EMAIL ENVOYÉ : Fournisseur WOLF
+[12-Jun-2019 08:43:04 Europe/Paris] EMAIL ENVOYÉ : Fournisseur PMC LINGERIE
+[12-Jun-2019 08:43:05 Europe/Paris] EMAIL ENVOYÉ : Fournisseur DIVINE
+[12-Jun-2019 08:43:05 Europe/Paris] EMAIL ENVOYÉ : Fournisseur KINDY PROJECT
+[12-Jun-2019 08:43:06 Europe/Paris] EMAIL ENVOYÉ : Fournisseur OLIVIER GUILLE
+[12-Jun-2019 08:43:06 Europe/Paris] EMAIL ENVOYÉ : Fournisseur TRICOTAGE DES VOSGES  OLYMPIA - BLEU FORET
+[12-Jun-2019 08:43:07 Europe/Paris] EMAIL ENVOYÉ : Fournisseur HANES DIM PLAYTEX  F H  (S/VÊT-CHAUSSANT)
+[12-Jun-2019 08:43:07 Europe/Paris] EMAIL ENVOYÉ : Fournisseur SADJ HECHTER
+[12-Jun-2019 08:43:08 Europe/Paris] EMAIL ENVOYÉ : Fournisseur EMINENCE ATHENA
+[12-Jun-2019 08:43:08 Europe/Paris] EMAIL ENVOYÉ : Fournisseur CSP PARIS WELL - LE BOURGET
+[25-Jun-2019 12:08:49 Europe/Paris] EMAIL ENVOYÉ : Fournisseur KIDILIZ ABSORBA - ALPHABET
+[25-Jun-2019 12:08:49 Europe/Paris] EMAIL ENVOYÉ : Fournisseur BEAUVALET - NATURANA
+[25-Jun-2019 12:08:49 Europe/Paris] EMAIL ENVOYÉ : Fournisseur HANES FRANCE SAS
+[25-Jun-2019 12:08:49 Europe/Paris] EMAIL ENVOYÉ : Fournisseur CHANTELLE
+[25-Jun-2019 12:08:49 Europe/Paris] EMAIL ENVOYÉ : Fournisseur V2D EXPANSION MORGAN B.BARDOT
+[25-Jun-2019 12:08:49 Europe/Paris] EMAIL ENVOYÉ : Fournisseur PETIT BATEAU
+[25-Jun-2019 12:08:49 Europe/Paris] EMAIL ENVOYÉ : Fournisseur RAFCO
+[25-Jun-2019 12:08:49 Europe/Paris] EMAIL ENVOYÉ : Fournisseur STEFFY V2D CREATION
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur TRIUMPH
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur VFB LINGERIE
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur WOLF
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur PMC LINGERIE
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur DIVINE
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur KINDY PROJECT
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur OLIVIER GUILLE
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur TRICOTAGE DES VOSGES  OLYMPIA - BLEU FORET
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur SADJ HECHTER
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur EMINENCE ATHENA
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur CSP PARIS WELL - LE BOURGET
+[25-Jun-2019 12:08:50 Europe/Paris] EMAIL ENVOYÉ : Fournisseur RESPEKT
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin ANCENIS
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHALDIS
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin ANTHIGO
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin ATLANTIS
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin AZEDIS
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin BLAINDIS
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin BOCAGE
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin BREVIDIS+SODIPOR
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIANDIS
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin BRIERE
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin BRISSAC
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin CDA49
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin CHANTONNAY
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin CHEMILLE
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin CHEMILLE 2
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin CLISSON
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin DACAR
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin DINANDIS
+[03-Jul-2019 14:03:24 Europe/Paris] EMAIL ENVOYÉ : Magasin DYNALEC
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin ELAUDIS
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin FOUGERES
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin GOURONNIERES
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin GUERANDIS
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin HERBIDIS
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin JA-DIS
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin JOSSELIN
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin KERMELEUC
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 1 - Damien
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 2 - Valérie
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin LAURY-CHALONGES 3 - Éric
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin NANTES-NORD
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin NANTES-NORD 2
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin OUDAIRIDIS+SODIROCHE
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin PARIDIS
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin PAYS-DE-REDON
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin PSV
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SABLE
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SAUMUR
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SEGRE
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SEGRE 2
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIJOUR
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODILONNE
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SODILONNE 2
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODINOVE
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 1 - Armelle
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 2 - Odile
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRENNES 3
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 1 - Nathalie
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 2 - Sylvie
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIRETZ 3 - Katerine
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SODIVARDIERE
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin SOLACDIS
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL NON ENVOYÉ #ERR-01 : Magasin SOLACDIS 2
+[03-Jul-2019 14:03:25 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-GILLES
+[03-Jul-2019 14:03:26 Europe/Paris] EMAIL ENVOYÉ : Magasin ST-MALO
+[03-Jul-2019 14:03:26 Europe/Paris] EMAIL ENVOYÉ : Magasin SUD-LOIRE
+[03-Jul-2019 14:03:26 Europe/Paris] EMAIL ENVOYÉ : Magasin THOUARS
+[03-Jul-2019 14:03:26 Europe/Paris] EMAIL ENVOYÉ : Magasin VADIS
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur KIDILIZ ABSORBA - ALPHABET
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur BEAUVALET - NATURANA
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur HANES FRANCE SAS
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur CHANTELLE
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur V2D EXPANSION MORGAN B.BARDOT
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur PETIT BATEAU
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur RAFCO
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur STEFFY V2D CREATION
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur TRIUMPH
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur VFB LINGERIE
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur WOLF
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur PMC LINGERIE
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur DIVINE
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur KINDY PROJECT
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur OLIVIER GUILLE
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur TRICOTAGE DES VOSGES  OLYMPIA - BLEU FORET
+[02-Aug-2019 09:55:23 Europe/Paris] EMAIL ENVOYÉ : Fournisseur SADJ HECHTER
+[02-Aug-2019 09:55:24 Europe/Paris] EMAIL ENVOYÉ : Fournisseur EMINENCE ATHENA
+[02-Aug-2019 09:55:24 Europe/Paris] EMAIL ENVOYÉ : Fournisseur CSP PARIS WELL - LE BOURGET
+[02-Aug-2019 09:55:24 Europe/Paris] EMAIL ENVOYÉ : Fournisseur RESPEKT

@@ -1,0 +1,19 @@
+<strong>Liste des besoins en heures nok :</strong>
+<hr/><strong>Liste des Magasins sans rendez-vous :</strong>
+Le Magasin LAURY-CHALONGES 1 - Damien n'a aucun rendez-vous !
+<hr/><strong>Liste des Magasins absents au salon d'achats :</strong>
+Le Magasin ANTHIGO ne participe pas au salon d'achats !
+Le Magasin ATLANTIS ne participe pas au salon d'achats !
+Le Magasin BREVIDIS ne participe pas au salon d'achats !
+Le Magasin CHANTONNAY ne participe pas au salon d'achats !
+Le Magasin JOSSELIN ne participe pas au salon d'achats !
+Le Magasin OUDAIRIDIS ne participe pas au salon d'achats !
+Le Magasin PARIDIS ne participe pas au salon d'achats !
+Le Magasin PSV ne participe pas au salon d'achats !
+Le Magasin SODIPOR ne participe pas au salon d'achats !
+Le Magasin SODIRENNES 1 - Armelle ne participe pas au salon d'achats !
+Le Magasin SODIROCHE ne participe pas au salon d'achats !
+Le Magasin SODIRENNES 3 ne participe pas au salon d'achats !
+Le Magasin GOURONNIERES+CDA49 ne participe pas au salon d'achats !
+Le Magasin SEGRE 2 ne participe pas au salon d'achats !
+Le Magasin SODILONNE 2 ne participe pas au salon d'achats !

@@ -1,0 +1,2 @@
+ALTER TABLE `present` CHANGE `present_details` `present_details` TEXT NULL DEFAULT NULL COMMENT 'Jours de présence';
+ALTER TABLE `lunch` CHANGE `lunches_details` `lunches_details` TEXT NULL DEFAULT NULL COMMENT 'Détails par jour des repas prévus';

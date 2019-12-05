@@ -1,0 +1,33 @@
+<strong>Liste des besoins en heures nok :</strong>
+(#1006) Il manque pour le Magasin BREVIDIS 1h00m de rendez-vous avec  le Fournisseur BAPLINE-BRET A PORTER.
+(#1017) Il manque pour le Magasin BREVIDIS 3h00m de rendez-vous avec  le Fournisseur COLINE KEAWA.
+(#1005) Il manque pour le Magasin BREVIDIS 1h00m de rendez-vous avec  le Fournisseur ID'EST CDH.
+(#1009) Il manque pour le Magasin BREVIDIS 1h00m de rendez-vous avec  le Fournisseur NORPROTEX.
+(#1004) Il manque pour le Magasin BREVIDIS 4h00m de rendez-vous avec  le Fournisseur RITCHIE.
+(#1008) Il manque pour le Magasin BREVIDIS 1h00m de rendez-vous avec  le Fournisseur SALMON.
+(#1010) Il manque pour le Magasin BREVIDIS 2h00m de rendez-vous avec  le Fournisseur STOOKER.
+(#1007) Il manque pour le Magasin BREVIDIS 3h00m de rendez-vous avec  le Fournisseur TERRE DE MARINS.
+(#1001) Il manque pour le Magasin BREVIDIS 2h00m de rendez-vous avec  le Fournisseur CHAUSS EUROP - DISTRIB'EST.
+(#1000) Il manque pour le Magasin BREVIDIS 8h00m de rendez-vous avec  le Fournisseur DRESCO.
+(#1003) Il manque pour le Magasin BREVIDIS 4h00m de rendez-vous avec  le Fournisseur FAYD'HERBE.
+(#1002) Il manque pour le Magasin BREVIDIS 2h00m de rendez-vous avec  le Fournisseur JP CHAUSSURES.
+(#949) Il manque pour le Magasin BRIERE 1h00m de rendez-vous avec  le Fournisseur BESNARD.
+(#689) Il manque pour le Magasin BRISSAC 1h00m de rendez-vous avec  le Fournisseur BESNARD.
+(#873) Il manque pour le Magasin DINANDIS 1h00m de rendez-vous avec  le Fournisseur BESNARD.
+(#623) Il manque pour le Magasin SAUMUR 1h00m de rendez-vous avec  le Fournisseur BESNARD.
+<hr/><strong>Liste des Magasins sans rendez-vous :</strong>
+Le Magasin BREVIDIS n'a aucun rendez-vous !
+<hr/><strong>Liste des Magasins absents au salon d'achats :</strong>
+Le Magasin ANTHIGO ne participe pas au salon d'achats !
+Le Magasin ATLANTIS ne participe pas au salon d'achats !
+Le Magasin CDA49 ne participe pas au salon d'achats !
+Le Magasin LAURY-CHALONGES 1 - Damien ne participe pas au salon d'achats !
+Le Magasin PARIDIS ne participe pas au salon d'achats !
+Le Magasin PSV ne participe pas au salon d'achats !
+Le Magasin SODIPOR ne participe pas au salon d'achats !
+Le Magasin SODIRENNES 1 - Armelle ne participe pas au salon d'achats !
+Le Magasin SOLACDIS ne participe pas au salon d'achats !
+Le Magasin SODIRENNES 3 ne participe pas au salon d'achats !
+Le Magasin BREVIDIS+SODIPOR ne participe pas au salon d'achats !
+Le Magasin GOURONNIERES+CDA49 ne participe pas au salon d'achats !
+Le Magasin OUDAIRIDIS+SODIROCHE ne participe pas au salon d'achats !
