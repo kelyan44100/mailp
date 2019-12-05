@@ -42,7 +42,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -71,7 +71,7 @@
       <workItem from="1574840839393" duration="7088000" />
       <workItem from="1574847948697" duration="23133000" />
       <workItem from="1574949352217" duration="71190000" />
-      <workItem from="1575467668016" duration="8355000" />
+      <workItem from="1575467668016" duration="9762000" />
     </task>
     <servers />
   </component>
